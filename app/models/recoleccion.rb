@@ -1,0 +1,2 @@
+class Recoleccion < ApplicationRecord
+end

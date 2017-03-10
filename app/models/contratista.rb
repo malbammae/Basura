@@ -1,0 +1,2 @@
+class Contratista < ApplicationRecord
+end
